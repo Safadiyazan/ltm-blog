@@ -17,6 +17,14 @@ export function Footer() {
               More info about LTM
             </a>
           </div>
+          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+            <a
+              href="mailto:safadiyazan@gmail.com"
+              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
+            >
+              Contact us
+            </a>
+          </div>
         </div>
         <h4 className="py-28 flex flex-col lg:flex-row items-center">
           The opinions and ideas expressed or implied in this website are those of the committee and not necessarily those of the Transportation Research Board (TRB) or the National Academies of Sciences.

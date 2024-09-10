@@ -30,19 +30,6 @@ const Avatar = ({ name, github_picture, github_url, exurl_picture, ex_url, doc_p
         <div className="w-12 h-12 mr-4" /> // Empty space placeholder
       )}
 
-      {/* GitHub Link & Picture */}
-      {github_url ? (
-        <Link href={github_url} aria-label="GitHubLink">
-          <img
-            src={github_picture}
-            className="w-12 h-12 rounded-full mr-4"
-            alt="GitHubLink"
-          />
-        </Link>
-      ) : (
-        <div className="w-12 h-12 mr-4" /> // Empty space placeholder
-      )}
-
       {/* Document Link & Picture */}
       {doc_url ? (
         <Link href={doc_url} aria-label="DocLink">
@@ -50,6 +37,19 @@ const Avatar = ({ name, github_picture, github_url, exurl_picture, ex_url, doc_p
             src={doc_picture}
             className="w-12 h-12 rounded-full mr-4"
             alt="DocLink"
+          />
+        </Link>
+      ) : (
+        <div className="w-12 h-12 mr-4" /> // Empty space placeholder
+      )}
+
+      {/* GitHub Link & Picture */}
+      {github_url ? (
+        <Link href={github_url} aria-label="GitHubLink">
+          <img
+            src={github_picture}
+            className="w-12 h-12 rounded-full mr-4"
+            alt="GitHubLink"
           />
         </Link>
       ) : (
