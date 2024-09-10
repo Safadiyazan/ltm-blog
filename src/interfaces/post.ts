@@ -11,5 +11,7 @@ export type Post = {
     url: string;
   };
   content: string;
+  githubLink: string;
+  keywords: string[];
   preview?: boolean;
 };

@@ -1,14 +1,14 @@
 ---
-title: "Welcome to the Subcommittee on Large-Scale Multimodal Traffic Modeling and Mobility Services (LTM)"
-excerpt: "Discover the latest advancements in traffic flow theory and explore innovative solutions for sustainable mobility. Join our community of researchers and practitioners."
+title: "Join Our Community"
+excerpt: "We invite you to become a part of our vibrant community of researchers, practitioners, and enthusiasts. Join us in exploring the latest trends and innovations in traffic modeling and mobility services."
 coverImage: ""
-date: "2024-09-10T23:35:07.322Z"
+date: "2024-09-10T01:35:07.322Z"
 author:
   name: "LTM Subcommittee"
-  github_picture: "/assets/github-icon.svg"
+  github_picture: "/assets/github-icon.svg" 
   github_url: ""
   exurl_picture: "/assets/url-icon.svg"
-  ex_url: ""
+  ex_url: "https://forms.gle/eT9SY66h3F5Fj18Z7"
   doc_picture: "/assets/doc-icon.svg"
   doc_url: ""
 

@@ -29,14 +29,20 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+            Stay tuned! Platform in progress.
+            <br />
+Want to be a part of the LTM Reservoir development? We're building a platform that fosters open science and collaboration within the LTM Subcommittee.
+<br />
+Share your ideas and learn more about how you can contribute to our growing community.
+
+              {/* The source code for this blog is{" "}
               <a
                 href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 available on GitHub
-              </a>
-              .
+              </a> */}
+
             </>
           )}
         </div>
