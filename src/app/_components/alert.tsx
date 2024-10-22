@@ -31,7 +31,7 @@ const Alert = ({ preview }: Props) => {
             <>
               Stay tuned! Platform in progress.
               <br />
-              Want to be a part of the LTM Reservoir development? We're building a platform that fosters open science and collaboration within the LTM Subcommittee.
+              Want to be a part of the Reservoir development? We're building a platform that fosters open science and collaboration within the community.
               <br />
               Share your ideas and learn more about how you can contribute to our growing community.
             </>

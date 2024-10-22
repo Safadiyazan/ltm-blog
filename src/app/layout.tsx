@@ -11,8 +11,8 @@ import Alert from "./_components/alert";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `LTM Reservoir`,
-  description: `Large-Scale Multimodal Traffic Modeling and Mobility Services (LTM) Subcommittee - Open Sciene Reservoir`,
+  title: `Reservoir`,
+  description: `Open Sciene Reservoir`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -29,27 +29,27 @@ export default function RootLayout({
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/favicon/LogoLTM.svg"
+          href="/favicon/Logo.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/favicon/LogoLTM.svg"
+          href="/favicon/Logo.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/favicon/LogoLTM.svg"
+          href="/favicon/Logo.png"
         />
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="/favicon/LogoLTM.svg"
+          href="/favicon/Logo.png"
           color="#000000"
         />
-        <link rel="shortcut icon" href="/favicon/LogoLTM.svg" />
+        <link rel="shortcut icon" href="/favicon/Logo.png" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="msapplication-config"

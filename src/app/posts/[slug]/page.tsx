@@ -50,7 +50,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title} | LTM Reservoir`;
+  const title = `${post.title} | Reservoir`;
 
   return {
     title,

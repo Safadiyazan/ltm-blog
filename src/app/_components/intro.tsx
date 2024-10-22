@@ -5,11 +5,11 @@ export function Intro() {
   return (
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
       <h4 className="text-5xl md:text-5xl font-bold tracking-tighter leading-tight md:pr-8">
-        LTM  Reservoir.
+        Reservoir.
       </h4>
 
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Promoting open science within LTM Subcommittee.
+        Promoting open science to all.
       </h4>
       <a
         href={`https://forms.gle/ZtFDGzWedmtCYYSK7`}

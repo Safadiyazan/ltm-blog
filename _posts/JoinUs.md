@@ -4,11 +4,11 @@ excerpt: "We invite you to become a part of our vibrant community of researchers
 coverImage: ""
 date: "2024-09-10T01:35:07.322Z"
 author:
-  name: "LTM Subcommittee"
+  name: "Admin"
   github_picture: "/assets/github-icon.svg" 
   github_url: ""
   exurl_picture: "/assets/url-icon.svg"
-  ex_url: "https://forms.gle/eT9SY66h3F5Fj18Z7"
+  ex_url: "emailto:safadiyazan@gmail.com"
   doc_picture: "/assets/doc-icon.svg"
   doc_url: ""
 

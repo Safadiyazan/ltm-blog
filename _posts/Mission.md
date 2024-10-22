@@ -4,7 +4,7 @@ excerpt: "* Foster collaboration among researchers, practitioners, and policymak
 coverImage: ""
 date: "2024-09-10T02:35:07.322Z"
 author:
-  name: "LTM Subcommittee"
+  name: "Admin"
   github_picture: "/assets/github-icon.svg"
   github_url: ""
   exurl_picture: "/assets/url-icon.svg"
